@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 深衣考誤
-#+DATE: 2015-09-23 09:38:38
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:11:12.024007
+#+PROPERTY: ID KR1d0075
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1d0075_WYG_000-1a>¶
 欽定四庫全書　　　　　經部四¶
 　深衣考誤　　　　　　禮類三(禮記之屬/)¶
@@ -36,4 +38,3 @@
 　　　　勝前人多矣乾隆四十六年四月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-

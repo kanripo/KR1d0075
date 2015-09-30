@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 深衣考誤
-#+DATE: 2015-09-23 09:38:38
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:11:12.042298
+#+PROPERTY: ID KR1d0075
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 深衣考誤
 <pb:KR1d0075_WYG_001-1a>¶
 欽定四庫全書¶
 　深衣考誤¶
@@ -290,4 +292,3 @@
 　¶
 　¶
 　深衣考誤¶
-
